@@ -1,0 +1,25 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body{
+    margin:0 auto;
+    background: #f8dce0 url("../img/choice.png");
+    background-size:cover;
+}
+.button{
+    display: inline-block;
+    width: 200px;
+    height: 54px;
+    text-align:center;
+    text-decoration:none;
+    line-height:54px;
+    outline:none;
+    opacity: 0.5;
+}
+.main{
+    text-align: center;
+}
+.mainText {
+    text-align:center;
+    font-size:25px;
+}
